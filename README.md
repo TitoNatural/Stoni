@@ -52,4 +52,4 @@ MIT License – feel free to use, modify, and share.
 
 ---
 
-**Demo:** [()](https://titonatural.github.io/HerMood/)
+**Demo:** [https://titonatural.github.io/HerMood/](https://titonatural.github.io/HerMood/)
