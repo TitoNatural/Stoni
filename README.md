@@ -22,7 +22,7 @@ Based on Central European plants, roots, nuts, seeds, and alternating meat or fi
 
 No installation needed — just download and open the HTML file.
 
-1. Save [`stoni.html`](./stoni.html) locally.
+1. Save [`index.html`](./index.html) locally.
 2. Double-click the file to open in your browser.
 3. Set your calorie target, pick a season, and click **Roll a week**.
 
